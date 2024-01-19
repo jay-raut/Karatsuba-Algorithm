@@ -6,7 +6,7 @@
 
 <p>1. Clone the repository</p>
 
-<p>2. First Compile</p>
+<p>2.In the directory, compile main by using the following command</p>
 
 ```
 make
