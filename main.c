@@ -5,7 +5,7 @@
 long long multiply(long long, long long, long long);
 int main(int argc, char *argv[]) {
     if (argc != 4) {
-        printf("Usage: main 'oprand1' 'oprand2' 'n digits'\n");
+        printf("Usage: main 'operand1' 'operand' 'n digits'\n");
         return 0;
     }
     long long a = atoi(argv[1]);
